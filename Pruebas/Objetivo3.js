@@ -14,3 +14,5 @@ function func () {
 func();
 
 // Para llamar a una funcion que estemos llamando siempre se debe colocar el nombre de la funcion que queremos ejecutar seguida de (); para que sea realizada. 
+
+// Podemos definir el Scope de una variable cómo "Donde vive y donde muere" o "Su alcance"
